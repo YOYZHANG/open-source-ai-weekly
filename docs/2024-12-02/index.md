@@ -18,10 +18,7 @@ author: '张XX'
 ### [VideoLingo 🌟7.5k](https://github.com/Huanshere/VideoLingo)
 全自动视频搬运 AI 字幕组，支持字幕切割、翻译、对齐和添加配音。有搬运海外热门视频需求的话可以试试。
 
-<video width="400" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/25264b5b-6931-4d39-948c-5a1e4ce42fa7" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[demo](https://github.com/user-attachments/assets/25264b5b-6931-4d39-948c-5a1e4ce42fa7)
 
 
 ### [FlipSketch 🌟195](https://github.com/hmrishavbandy/FlipSketch)
@@ -32,10 +29,7 @@ author: '张XX'
 ### [MinerU 🌟 19.9k](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)
 MinerU是一款将PDF转化为机器可读格式的工具（如markdown、json），可以很方便地抽取为任意格式。
 
-<video width="400" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/4bea02c9-6d54-4cd6-97ed-dff14340982c" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[demo](https://github.com/user-attachments/assets/4bea02c9-6d54-4cd6-97ed-dff14340982c)
 
 ### [Fooocus 🌟41.8k](https://github.com/lllyasviel/Fooocus)
 Fooocus 是一款离线、开源和免费的 AI 图像生成软件（基于 Gradio），完全基于 Stable Diffusion XL 架构。与 Midjourney 类似，用户只需关注提示和图像。
@@ -63,21 +57,20 @@ comfyUI 目前已经开放了测试版的下载地址，支持 Window 和 Mac �
 
 谷歌推出的视频分层工具，可以将视频分解成一组 RGBA 全色图层，其中每个图层由一个完全可见的物体及其相关效果（如阴影和反射）组成。可以针对每个图层进行编辑，例如去掉物体、更换视频背景等。目前尚未开源。
 
-<video width="400" height="360" controls>
-  <source src="https://gen-omnimatte.github.io/assets/videos/layers/lego_animation_pause-occlusion.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[demo](https://gen-omnimatte.github.io/assets/videos/layers/lego_animation_pause-occlusion.mp4)
+
 
 ### 4. [Stable Diffusion 3.5 新增 controlNet](https://stability.ai/news/sd3-5-large-controlnets)
 
 Stability AI 发布了新版 Stable Diffusion3.5Large，新增三种 ControlNet 功能，分别是Blur、Canny和Depth，显著提升了图像生成能力。用户可在不商业化的前提下免费使用该模型。
 
-<img src="image-6.png" style="width:350px; height:300px;"/>
+<img src="image-6.png" style="width:450px; height:300px;"/>
 
 
 ## 本周 AI 教程/实战
-### 1.[如何使用 Midjourney](https://learningprompt.wiki/docs/midjourney/mj-tutorial-basics/how-to-use-midjourney) 
-### 2.[如何使用 AI 备考雅思](https://learningprompt.wiki/docs/ai-101/best-practice/learning/learning-IELTS)
+ 1.[如何使用 Midjourney](https://learningprompt.wiki/docs/midjourney/mj-tutorial-basics/how-to-use-midjourney) 
+
+2.[如何使用 AI 备考雅思](https://learningprompt.wiki/docs/ai-101/best-practice/learning/learning-IELTS)
 
 
 ## 本周 AI 变现思路分享
