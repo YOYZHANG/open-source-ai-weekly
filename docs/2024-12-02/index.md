@@ -8,34 +8,40 @@ author: '张XX'
 
 ## 本周不可错过的 AI 开源项目
 
-1. [Lobe Chat 🌟45.6k](https://github.com/lobehub/lobe-chat)
-开源的人工智能聊天框架， 支持多种人工智能模型（OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek）、知识库（文件上传/知识管理/RAG）、多种模式（视觉/TTS/插件/人工智能）。 不仅如此，它还支持PWA, 自定义主题等特性，非常适合一键式免费部署私有 ChatGPT/ Claude 应用程序。
+### [Lobe Chat 🌟45.6k](https://github.com/lobehub/lobe-chat)
 
-![Lobe Chat](image-1.png)
 
-2. [VideoLingo 🌟7.5k](https://github.com/Huanshere/VideoLingo)
+开源的人工智能聊天框架， 支持**多种人工智能模型**、**知识库**、**多种模式**（视觉/TTS/插件/人工智能）。 不仅如此，它还支持**PWA, 自定义主题**等特性，非常适合一键式免费部署私有 ChatGPT/ Claude 应用程序。
+
+<img src="image-1.png" alt="Lobe Chat" style="width:400px; height:150px;"/>
+
+### [VideoLingo 🌟7.5k](https://github.com/Huanshere/VideoLingo)
 全自动视频搬运 AI 字幕组，支持字幕切割、翻译、对齐和添加配音。有搬运海外热门视频需求的话可以试试。
 
 [Demo](https://github.com/user-attachments/assets/25264b5b-6931-4d39-948c-5a1e4ce42fa7)
 
-3. [FlipSketch 🌟195](https://github.com/hmrishavbandy/FlipSketch)
+### [FlipSketch 🌟195](https://github.com/hmrishavbandy/FlipSketch)
 将静态绘图翻转为文本引导的草图动画, 目前出图的效果不是很稳定，但创意不错，有兴趣的话可以翻看下源码。
-![alt text](image-4.png)
 
-4. [MinerU 🌟 19.9k](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)
+<img src="image-4.png" style="width:350px; height:300px;"/>
+
+### [MinerU 🌟 19.9k](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)
 MinerU是一款将PDF转化为机器可读格式的工具（如markdown、json），可以很方便地抽取为任意格式。
 
 [Demo](https://github.com/user-attachments/assets/4bea02c9-6d54-4cd6-97ed-dff14340982c)
 
-5. [Fooocus 🌟41.8k](https://github.com/lllyasviel/Fooocus)
+### [Fooocus 🌟41.8k](https://github.com/lllyasviel/Fooocus)
 Fooocus 是一款离线、开源和免费的 AI 图像生成软件（基于 Gradio），完全基于 Stable Diffusion XL 架构。与 Midjourney 类似，用户只需关注提示和图像。
 
-![alt text](image.png)
 
-6. [SANA 🌟1.2k](https://github.com/NVlabs/Sana)
+<img src="image.png" style="width:350px; height:400px;"/>
+
+
+### [SANA 🌟1.2k](https://github.com/NVlabs/Sana)
 英伟达开源的文生图模型，优势是生图速度快，能够生成 4k 图片，特别适用于端侧设备。0.6B模型在生成 1024 * 1024 分辨率图片时，仅需 0.9s, 是flux-dev 的 39.5倍。
 
-![alt text](image-3.png)
+<img src="image-3.png" style="width:350px; height:300px;"/>
+
 
 ## 行业动态
 1. [阿里通义开源 QwQ-32B-Preview 最强国产推理模型](https://huggingface.co/Qwen/QwQ-32B-Preview)。
