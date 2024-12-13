@@ -53,7 +53,7 @@ ChatGPT Pro权益是提供了无限制访问高级语音模式、o1、4o 以及�
 
 ### 2. [Hailuo I2V-01-Live](https://github.com/ltdrdata/ComfyUI-Impact-Pack/issues/843)
 
-海洛 I2V-01-Live 是 I2V 系列的最新成员，它专门针对动漫图片，让角色以前所未有的方式移动、说话。
+ 海螺 I2V-01-Live 是 I2V 系列的最新成员，它专门针对动漫图片，让角色以前所未有的方式移动、说话。
 
 <img src="image-2.png" style="width:300px; height:200px;"/>
 <img src="hailuo.webp" style="width:300px; height:200px;"/>
