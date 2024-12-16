@@ -8,12 +8,14 @@ author: '张XX'
 
 ## 本周不可错过的 AI 开源项目
 
+
+
 ### [screenshot-to-code  🌟65.4k](https://github.com/abi/screenshot-to-code)
 一款使用 AI 将屏幕截图、模型和 Figma 设计转换为简洁实用的代码的简单工具。现在支持 Claude Sonnet 3.5 和 GPT-4o。还可拍摄网站运行时的视频/屏幕录像，并将其转化为功能原型。
 
 <img src="image-4.png"  style="width:400px; height:300px;"/>
 
-### [OneDiffusion：功能强大的生图模型 🌟 476](https://matankleiner.github.io/flowedit/)
+### [OneDiffusion：功能强大的生图模型 🌟 476](https://github.com/lehduong/OneDiffusion?tab=readme-ov-file)
 
 OneDiffusion 是一个多功能生图模型，功能非常强大，目前支持文生图、ID 一致性、单图生多视角、文生多视角、根据主题生成等多种功能。
 <img src="image-3.png" style="width:400px; height:300px;"/>
@@ -32,6 +34,10 @@ PDFMathTranslate 能够将PDF文档进行双语翻译，并完整保留排版。
 HivisionIDPhoto 是一个轻量级的AI证件照制作算法，完全开源免费，利用一套完善的AI模型工作流程，来实现对多种用户拍照场景的识别、抠图与证件照生成。
 
 <img src="image-7.png" style="width:400px; height:200px;"/>
+
+### [metamotivo 🌟 278](https://github.com/facebookresearch/metamotivo)
+Meta Motivo 是首个人体动作生成模型，能够控制并生成符合物理规律的人体动作，还蛮有意思的。
+<img src="image-11.png" style="width:400px; height:200px;"/>
 
 ## 最新行业动态
 ### 1. [OpenAI 12Days Day3-6](https://openai.com/12-days/)
@@ -52,7 +58,6 @@ OpenAI Day6:
 <img src="image-8.png" style="width:400px; height:300px;"/>
 
 Google 推出的 Willow 是一款划时代的量子芯片，它在量子错误校正方面取得了重大突破，Willow 能够在不到五分钟的时间内完成一项基准计算，而这需要当今最快的超级计算机需花费 10^25年的时间。同时Willow 通过提升量子位的数量，可以成倍降低计算的错误率。
-此外，它在不到五分钟内就完成了超级计算机上需要 10^25 年才能完成的 RCS 计算。
 
 官方博客：https://blog.google/technology/research/google-willow-quantum-chip/
 
@@ -66,12 +71,25 @@ Gemini Flash 2.0 堪称最强大模型，它的速度是 1.5 Pro 的两倍，这
 <img src="image-9.png" style="width:400px; height:250px;"/>
 
 
-### 4. OpenAI 服务大规模宕机超 4 小时
+### 4. [Grok 向所有用户免费开放](https://x.ai/blog/grok-1212)
+
+Grok 对所有用户免费，包含新推出 Grok2版本。Grok2不仅支持实时搜索，还支持绘图，分析帖子等，不愧是马斯克送出的圣诞大礼。
+<img src="image-9.png" style="width:400px; height:250px;"/>
+
+### 5. [PIKA AI 发布 Pika 2.0](https://pika.art/login)
+
+PIKA AI 发布Pika 2.0 模型。模型支持上传商品或衣服照片可以实现试穿试用，上传两个人的照片可以轻松实现合影等。看效果确实不错，非常适合生成广告片，宣传视频等。
+
+<img src="image-12.png" style="width:400px; height:250px;"/>
+<img src="image-13.png" style="width:400px; height:250px;"/>
+
+### 6. OpenAI 服务大规模宕机超 4 小时
 12月10日，OpenAI 遭遇了大规模宕机，包括 API、网站、Sora 和 Playground 在内的服务均无法使用，宕机时间超过 4 小时。截至目前，所有服务已完全恢复。
 
 
 ## 本周 AI 教程
-1. [斯坦福 AI 公开课：如何建立类似 ChatGPT 的模型](https://www.youtube.com/watch?v=9vM4p9NN0Ts&t=72s)
+1.[斯坦福 AI 公开课：如何建立类似 ChatGPT 的模型](https://www.youtube.com/watch?v=9vM4p9NN0Ts&t=72s)
+
 这门公开课被认为是2024年最值得收藏的斯坦福 AI 公开课。本课程简明扼要地概述了如何建立类似 ChatGPT 的模型。即使没有编程基础也能搞懂大模型是如何运作的，是很好的 AI 基础教程。
 
 <img src="image-10.png" style="width:200px; height:200px;"/>
