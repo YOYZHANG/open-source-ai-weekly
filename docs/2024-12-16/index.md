@@ -1,5 +1,5 @@
 ---
-title: '开源 AIGC 周刊 #2'
+title: '开源 AIGC 周刊 #3'
 pubDate: 2024-12-09
 author: '张XX'
 ---
