@@ -23,6 +23,21 @@ zerox 能够将pdf文件转成markdown 格式。
 
 ### [CopilotKit 🌟 15.7k](https://github.com/CopilotKit/CopilotKit)
 
+### [whisper 🌟 74.7k](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V)
+
+昆仑万维开源 SkyReels-V1 视频模型，专注于 AI 短剧创作。该模型的主页介绍表示其通过对千万级高质量影视数据的微调，具备生成电影级光影效果、细腻表情和自然动作的能力。
+目前，该模型已经开源，并且支持商业用途。
+
+<img src="image-2.png" style="width:400px; height:300px;"/>
+
+
+### [zerox 🌟 8.7k](https://github.com/getomni-ai/zerox?tab=readme-ov-file)
+zerox 能够将pdf文件转成markdown 格式，
+
+
+<img src="image-7.png" style="width:400px; height:250px;"/>
+
+### [CopilotKit 🌟 15.7k](https://github.com/CopilotKit/CopilotKit)
 CopilotKit 提供了多种 API 接口，允许开发者轻松地将 AI 功能集成到他们的应用中，例如自动补全、智能推荐等。官方提供了很多应用示例，有兴趣的可以看看。
 
 
@@ -63,6 +78,39 @@ Cursor 官方发布已经从 Thrive Capital、Andreessen Horowitz、Benchmark �
 
 ChatGPT 推出了任务（Task） 功能。只要告诉 ChatGPT 需求和时间，它就会准时通知你。 目前，这一功能仅对付费用户开放。
 
+LocalAI 是 OpenAI、Claude 和其他软件的免费开源替代品。 可以自托管，本地优先。 可直接替代 OpenAI 在硬件上运行。 无需 GPU。 可运行 gguf、变压器、扩散器和更多模型架构。 功能 生成文本、音频、视频、图像、语音克隆、分布式、P2P 推理。
+
+<img src="image-8.png" style="width:400px; height:200px;"/>
+
+### [MangaNinja 🌟 341](https://github.com/ali-vilab/MangaNinjia)
+MangaNinja 是一款创新的开源线稿上色工具，它允许用户通过输入线稿和参考图片来生成与参考图一致的颜色。 该工具支持多角色草图参考多张图片和单角色草图参考多张图片。 
+
+<img src="image-10.png" style="width:400px; height:200px;"/>
+
+### [Kokoro-TTS  2k](https://huggingface.co/hexgrad/Kokoro-82M)
+Kokoro 是一个前沿的 TTS 模型，仅有 82M参数（文本输入/音频输出）， 支持中文。 截至 2025 年 1 月 2 日，已发布了 10 个独特的语音包。 在发布前的几周，Kokoro v0.19 是 TTS Spaces Arena 排名第一的模型。 
+
+
+<img src="2024-12-23-10-46-54.png"  style="width:400px; height:200px;"/>
+
+### [MakeAnything：一致性图片序列生成模型  6.6k](https://github.com/PatrickJS/awesome-cursorrules)
+![alt text](image-4.png)
+awesome-cursorrules 集合了所有超赞 .cursorrules 文件。 .cursorrules 文件定义了Cursor AI在生成代码时要遵循的自定义规则，让你可以根据自己的特定需求和偏好来调整它的行为。
+
+
+<img src="2024-12-23-10-46-54.png"  style="width:400px; height:200px;"/>
+
+## 最新行业动态
+### 1. [阿里 WANX 2.1 视频生成模型即将开源](https://x.com/Alibaba_WanX)
+
+![alt text](image-1.png)
+Cursor 官方发布已经从 Thrive Capital、Andreessen Horowitz、Benchmark 和现有投资者那里获得了 1.05 亿美元的 B 轮融资。 这笔融资将用来打造一个比任何现有人类程序员都厉害的 AI 程序员。
+
+### 2. [xAI 发布 Grok 3：超越 DeepSeek R1](https://x.com/i/broadcasts/1gqGvjeBljOGB)
+
+![alt text](image-3.png)
+
+Grok 3 现已发布，直播中展示了其在多个基准测试中的卓越表现，包括数学、科学和编程等领域，超越了 OpenAI GPT-4o、Google Gemini、DeepSeek V3 以及 Anthropic Claude 等顶尖模型。其推理模式（代号 "chocolate"）在 Chatbot Arena 平台的盲测中目前排名第一。
 
 ### 3. [FLUX Pro Finetuning API：轻松定制你的图像模型](https://blackforestlabs.ai/announcing-the-flux-pro-finetuning-api/)
 
@@ -72,12 +120,15 @@ ChatGPT 推出了任务（Task） 功能。只要告诉 ChatGPT 需求和时间�
 
 ## 本周 AI 教程
 
+<img src="image-3.png" style="width:400px; height:250px;"/>
+
+
+## 本周 AI 教程
 1.[minimind 🌟 5.5k](https://github.com/jingyaogong/minimind)
 
 minimind 是一个用3小时完全从0训练出来的小参数GPT。该项目同时提供了详细的数据集和训练方法，能帮助大家更好的学习如何训练模型。
 
-
-<img src="image-7.png" style="width:450px; height:200px;"/>
+<img src="image-9.png" style="width:450px; height:200px;"/>
 
 ## 关于周刊
 
