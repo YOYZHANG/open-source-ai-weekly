@@ -8,69 +8,99 @@ author: '张XX'
 
 ## 本周不可错过的 AI 开源项目
 
-### [whisper 🌟 74.7k](https://github.com/openai/whisper?tab=readme-ov-file)
+### [R1 1776  🌟 1.48k](https://huggingface.co/perplexity-ai/r1-1776)
 
-OpenAI 开源了一款语音自动识别系统，支持多语言(包含中文)，同时提供了API接口。可以用来为视频自动生成字幕、实时将会议内容转录，语言学习等。
+R1 1776 是 Perplexity 开源的无审查版本的 DeepSeek 推理模型，支持通过 Sonar API 方式调用。
 
-<img src="image-2.png" style="width:400px; height:300px;"/>
+<img src="image.png" style="width:400px; height:300px;"/>
 
 
-### [zerox 🌟 8.7k](https://github.com/getomni-ai/zerox?tab=readme-ov-file)
-zerox 能够将pdf文件转成markdown 格式，
+### [Mastra 🌟 4.7k](https://github.com/mastra-ai/mastra)
+Mastra 是一个 Typescript 框架，可快速构建人工智能应用程序和功能。 它提供了工作流、代理、RAG、集成功能。可以在本地机器上运行 Mastra，也可以部署到服务器上。
+
+
 
 
 <img src="image-7.png" style="width:400px; height:250px;"/>
 
-### [CopilotKit 🌟 15.7k](https://github.com/CopilotKit/CopilotKit)
-CopilotKit 提供了多种 API 接口，允许开发者轻松地将 AI 功能集成到他们的应用中，例如自动补全、智能推荐等。官方提供了很多应用示例，有兴趣的可以看看。
+### [browser-use 🌟 31.4k](https://github.com/browser-use/browser-use?tab=readme-ov-file)
+
+browser-use 是将 Agent 与浏览器连接起来的最简单方法。例如你可以利用它实现将商品加入购物车并下单；阅读你的简历并自动在浏览器中申请工作。
+![alt text](image-6.png)
 
 
-### [LocalAI 🌟 28.8k](https://github.com/mudler/LocalAI)
-LocalAI 是 OpenAI、Claude 和其他软件的免费开源替代品。 可以自托管，本地优先。 可直接替代 OpenAI 在硬件上运行。 无需 GPU。 可运行 gguf、变压器、扩散器和更多模型架构。 功能 生成文本、音频、视频、图像、语音克隆、分布式、P2P 推理。
-
-<img src="image-8.png" style="width:400px; height:200px;"/>
-
-### [MangaNinja 🌟 341](https://github.com/ali-vilab/MangaNinjia)
-MangaNinja 是一款创新的开源线稿上色工具，它允许用户通过输入线稿和参考图片来生成与参考图一致的颜色。 该工具支持多角色草图参考多张图片和单角色草图参考多张图片。 
-
-<img src="image-10.png" style="width:400px; height:200px;"/>
-
-### [Kokoro-TTS  2k](https://huggingface.co/hexgrad/Kokoro-82M)
-Kokoro 是一个前沿的 TTS 模型，仅有 82M参数（文本输入/音频输出）， 支持中文。 截至 2025 年 1 月 2 日，已发布了 10 个独特的语音包。 在发布前的几周，Kokoro v0.19 是 TTS Spaces Arena 排名第一的模型。 
+### [pandas-ai 🌟 15.4k](https://github.com/sinaptik-ai/pandas-ai)
+pandas-ai 用于与数据库或数据集（SQL、CSV、parquet）聊天。 PandasAI 使用 LLM 和 RAG 使数据分析成为对话式的。
 
 
-<img src="2024-12-23-10-46-54.png"  style="width:400px; height:200px;"/>
+<img src="image-7.png" style="width:400px; height:200px;"/>
 
-### [awesome-cursorrules  6.6k](https://github.com/PatrickJS/awesome-cursorrules)
-awesome-cursorrules 集合了所有超赞 .cursorrules 文件。 .cursorrules 文件定义了Cursor AI在生成代码时要遵循的自定义规则，让你可以根据自己的特定需求和偏好来调整它的行为。
+### [tinygrad🌟 28.1k](https://github.com/tinygrad/tinygrad)
+tinygrad 是一款出色的深度学习框架，它的架构其极其简单，并支持推理和训练。 如果说 XLA 是 CISC，那么 tinygrad 就是 RISC。
+
+### [Light-A-Video  330](https://github.com/bcmi/Light-A-Video/)
+Light-A-Video 是一个开源的无需训练的视频重打光技术，效果类似于 IC-Light，但特别之处在于它支持视频处理。
+
+![alt text](image-3.png)
 
 
 <img src="2024-12-23-10-46-54.png"  style="width:400px; height:200px;"/>
+
+### [Step-Video-T2V  2k](https://sanhua.himrr.com/news/cffc7f4a-e805-42ad-9b64-aa5706c139a2)
+Step-Video-T2V 开源了其最新的文生视频模型，该模型拥有 300 亿参数，能够生成长达 204 帧的高质量视频。官方建议使用配备 80G 内存的 GPU 进行运行。代码已基于 MIT 许可证开源，支持商业用途。
+
+<img src="image-1.png"  style="width:400px; height:200px;"/>
+
 
 ## 最新行业动态
 ### 1. [阿里 WANX 2.1 视频生成模型即将开源](https://www.cursor.com/blog/series-b)
 
-
-
 Cursor 官方发布已经从 Thrive Capital、Andreessen Horowitz、Benchmark 和现有投资者那里获得了 1.05 亿美元的 B 轮融资。 这笔融资将用来打造一个比任何现有人类程序员都厉害的 AI 程序员。
 
-### 2. [OpenAI 推出 ChatGPT 任务功能：支持单次和计划任务](https://x.com/OpenAI/status/1879267274185756896?mx=27)
+### 2. [Grok3 Beta 已可以免费使用](https://grok.com/)
 
-ChatGPT 推出了任务（Task） 功能。只要告诉 ChatGPT 需求和时间，它就会准时通知你。 目前，这一功能仅对付费用户开放。
+Grok3 其计算能力是之前最先进模型的 10 倍，支持深度思考功能，但该功能 24 小时内只能使用 2 次。
 
-### 3. [FLUX Pro Finetuning API：轻松定制你的图像模型](https://blackforestlabs.ai/announcing-the-flux-pro-finetuning-api/)
+### 3. [腾讯混元 T1 推理模型现已上线腾讯元宝](https://mp.weixin.qq.com/s/q5YFZrcTDYgM-LeRyGHQYQ)
 
-黑森林实验室宣布推出 FLUX Pro Finetuning API，创作者可以用自己的图像和概念来定制 FLUX.1 [pro]，从而对最终结果有更多的控制权。
+腾讯混元团队宣布其自研推理模型 Hunyuan T1 现已上线腾讯元宝进行灰度测试，性能比肩 Deepseek R1。
+
 
 <img src="image-3.png" style="width:400px; height:250px;"/>
 
+### 4. [微软推出 OmniParser V2.0：将大语言模型转化为 GUI 交互智能体](https://huggingface.co/microsoft/OmniParser-v2.0)
+微软的 OmniParser 近日发布了 V2 更新，这一更新旨在将任何大语言模型（LLM）转化为能够理解和交互图形用户界面（GUI）的智能体。
+
+<img src="image-2.png" style="width:400px; height:250px;"/>
+
+### 5. [百度文心大模型 4.5 系列即将开源](https://mp.weixin.qq.com/s/VEPMufLTlSyysy1cmyHk4Q)
+
+百度将在未来几个月中陆续推出文心大模型4.5系列，并于6月30日起正式开源。同时，百度搜索也将全面接入 DeepSeek 和文心大模型最新的深度搜索功能。
+
+### 6. [腾讯混元 T1 推理模型现已上线腾讯元宝](https://mp.weixin.qq.com/s/q5YFZrcTDYgM-LeRyGHQYQ)
+
+腾讯混元团队宣布其自研推理模型 Hunyuan T1 现已上线腾讯元宝进行灰度测试，性能比肩 Deepseek R1。
+
+### 7. [百度文心大模型 4.5 系列即将开源](https://mp.weixin.qq.com/s/VEPMufLTlSyysy1cmyHk4Q)
+
+百度将在未来几个月中陆续推出文心大模型4.5系列，并于6月30日起正式开源。同时，百度搜索也将全面接入 DeepSeek 和文心大模型最新的深度搜索功能。
+
+### 8. [谷歌 Whisk：通过图像混合生成新图片](https://labs.google/fx/tools/whisk)
+
+Whisk 是谷歌实验室的新实验项目，用户可以通过上传或生成图像来定义主题、场景和风格，然后将它们混合生成新图片。
+
+<img src="image-4.png" style="width:400px; height:250px;"/>
+
 
 ## 本周 AI 教程
-1.[minimind 🌟 5.5k](https://github.com/jingyaogong/minimind)
+1.[antropics 🌟 9.4k](https://github.com/anthropics/courses)
 
-minimind 是一个用3小时完全从0训练出来的小参数GPT。该项目同时提供了详细的数据集和训练方法，能帮助大家更好的学习如何训练模型。
-
-<img src="image-9.png" style="width:450px; height:200px;"/>
+Antropics 官方推出的教程包含以下内容：
+- Claude SDK 的使用：获取 API 密钥、使用模型参数、编写多模态提示、流式响应等。 
+- Prompt教程：关键提示技术的全面分步指南。
+- 真实世界提示：学习如何将提示技术融入复杂的真实世界提示中。
+- 提示评估：学习如何编写生产提示评估，以衡量提示的质量。
+- 工具使用：讲授在使用 Claude 的工作流程中成功实施工具使用所需的一切知识。
 
 ## 关于周刊
 
