@@ -18,5 +18,6 @@
 [第 5 期](/docs/2025-01-06/index.md)
 [第 6 期](/docs/2025-01-13/index.md)
 [第 7 期](/docs/2025-01-20/index.md)
+[第 8 期](/docs/2025-02-24/index.md)
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
